@@ -80,7 +80,7 @@ loader(2022, 202200000, 202204243)
 loader(2023, 202300000, 202302889)
 ```
 
-## Run the first two part of the code first to create a Database and the reason for this is because its much faster than saving in a list or dictionary. (I don't have to load 5.63 GB from extracting the zip file)
+## Run the first two part of the code first to create a Database and the reason for this is because its much faster than saving in a list or dictionary. (I don't have to load 5.63 GB from extracting the zip file) Caution: DO NOT I REPEAT RUN THE FIRST TWO PARTS OF THE CODE TWICE BECAUSE WHEN YOU RUN IT ONCE THE DATABASE IS ALREADY CREATED!!!!!!!!!!!!!!!!!!
 
 ```python 
 conn = sqlite3.connect("scopus.db")
