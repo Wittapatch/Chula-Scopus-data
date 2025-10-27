@@ -1,5 +1,12 @@
 # Chula-Scopus-data
 
+## Before Doing anything
+### First, you have to create a folder name "...." and then download the zip file from the google drive here: https://drive.google.com/drive/folders/14QccbuPKigSKFnuN1WYKQU_53hmB7r4w?usp=sharing
+
+### Second, you put the downloaded zip file and test.ipynb into the folder
+
+### Then follow the steps down below:
+
 ## Extracting the data out of the zip
 ```python 
 import zipfile
